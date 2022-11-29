@@ -1,5 +1,22 @@
 # The Martial Arts Academy (MAA) – School Management System
 
+### MAA: (p. 16)
+- Grandmaster Taylor taught martial arts for 30 years and retired.
+- New owners: Geoff and Julie (Black-belt instructors)
+- 35 students (white-belt to Black-belt), pre-paying to take a specific number of classes
+per week
+- A class: 60 minutes long
+- Schedule a day to test; fill out a form; pay a test fee; get permission from instructors
+- Kids (6-12) and Adults (over 12); 30% females
+- Students signing a contract (with personal information) and keep in a file folder in a
+cabinet
+- Discount for signing a week and months
+- Instructor puts a clip for each class student card – may forget or lose the clip
+- White, orange, yellow, green, blue, purple, brown, black
+- G and Julie – want to retain current students and attract new students
+- Competitors – two martial art schools and other sports
+- Run a small shop for school supplies 
+
 ### Project Part1: Question: p. 81 – Q4 (MOV), Q5 (TCO, TBO), Q6 (Recommendation)
 Need for a School Management System
 - Need to hire to build a customer application system for managing day-to-day operation
